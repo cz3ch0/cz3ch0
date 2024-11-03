@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cz3ch0
-- 👀 I’m interested in going to gym, playing computer games, mostly mmorpg, i like to collaborate.
+- 👀 I’m interested in going to gym, playing computer games, mostly mmorpg.
 - 🌱 I’m currently learning python, for my data analytics skills , power bi and excel
 - 💞️ I’m looking to collaborate on people who does have the time to teach .
 - 📫 How to reach me ...
